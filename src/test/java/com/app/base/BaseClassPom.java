@@ -28,6 +28,8 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.io.FileHandler;
 import org.openqa.selenium.support.ui.Select;
 
+
+// sample changes
 public class BaseClassPom {
 	public static WebDriver driver;
 	
