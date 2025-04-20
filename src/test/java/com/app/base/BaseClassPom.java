@@ -30,7 +30,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class BaseClassPom {
 	public static WebDriver driver;
-	
+	//commitclass
 	@BeforeClass
 	public static void browserLaunch() {
 		driver=new ChromeDriver();
